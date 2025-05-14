@@ -9,7 +9,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no **Power BI**, com
 ## 🔎 Visão Geral
 
 ![Dashboard Principal](imagens/dashboard-principal.png)
-![Acesse!](https://app.powerbi.com/groups/me/reports/e8ba250d-c074-4df7-a2cf-4419f65537a6/6d1dc1bd897e32c48c0b?experience=power-bi) 
+[Acesse](https://app.powerbi.com/groups/me/reports/e8ba250d-c074-4df7-a2cf-4419f65537a6/6d1dc1bd897e32c48c0b?experience=power-bi) 
 
 
 O dashboard responde a perguntas como:
