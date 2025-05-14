@@ -77,7 +77,7 @@ Relacionamento feito com a tabela auxiliar `dados_regioes`:
 ## 📸 Exemplos de Gráficos
 
 ### Receita Mensal
-![Gráfico de Área](imagens/vendas-mensais.png)
+![Gráfico de Área](imagens/vendas-mensais.png) 
 
 ### Vendas por Região
 ![Gráfico de Colunas Clusterizados](imagens/vendas-regiao.png)
